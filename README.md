@@ -4,6 +4,7 @@
 
 ![Portfolio Banner](https://img.shields.io/badge/Portfolio-Live-00f5ff?style=for-the-badge&logo=google-chrome&logoColor=white)
 [![Website](https://img.shields.io/badge/Acesse_o_Site-lucasmartinshilario.github.io-9d00ff?style=for-the-badge)](https://lucasmartinshilario.github.io/)
+[![License](https://img.shields.io/badge/License-MIT-00f5ff?style=for-the-badge)](./LICENSE)
 
 </div>
 
@@ -17,6 +18,7 @@ Portfólio pessoal desenvolvido com design **Synthwave/Cyberpunk** profissional,
 - 🎭 **Animações Suaves** - Efeitos de scroll reveal, hover e transições elegantes
 - ⚡ **Performance Otimizada** - Carregamento rápido e código limpo
 - 🎨 **Visual Moderno** - Estética Synthwave/Cyberpunk profissional
+- 📁 **Estrutura Organizada** - Arquivos organizados em pastas por tipo
 - ♿ **Acessível** - Seguindo boas práticas de acessibilidade web
 
 ## 🛠️ Tecnologias Utilizadas
@@ -33,11 +35,18 @@ Portfólio pessoal desenvolvido com design **Synthwave/Cyberpunk** profissional,
 ## 📂 Estrutura do Projeto
 
 ```
-portfolio/
-├── index.html       # Estrutura principal
-├── styles.css       # Estilos e design Synthwave
-├── script.js        # Interações e animações
-└── README.md        # Documentação
+lucasmartinshilario.github.io/
+├── assets/
+│   ├── css/
+│   │   └── styles.css          # Estilos e design Synthwave
+│   ├── js/
+│   │   └── script.js           # Interações e animações
+│   └── images/
+│       └── profile.jpg         # Foto de perfil
+├── index.html                  # Estrutura principal
+├── README.md                   # Documentação
+├── LICENSE                     # Licença MIT
+└── .gitignore                  # Arquivos ignorados pelo Git
 ```
 
 ## 🎯 Funcionalidades
@@ -51,15 +60,16 @@ portfolio/
 - ✅ Efeitos de hover e transições suaves
 - ✅ Grid animado de fundo
 - ✅ Botão scroll-to-top
+- ✅ Foto de perfil profissional
 
 ## 🚀 Como Executar Localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/lucasmartinshilario/portfolio.git
+git clone https://github.com/lucasmartinshilario/lucasmartinshilario.github.io.git
 
 # Entre na pasta
-cd portfolio
+cd lucasmartinshilario.github.io
 
 # Abra o index.html no navegador
 # Ou use um servidor local como Live Server (VS Code)
@@ -68,18 +78,6 @@ cd portfolio
 ## 🌐 Acesse Online
 
 O portfólio está disponível em: **[lucasmartinshilario.github.io](https://lucasmartinshilario.github.io/)**
-
-## 📱 Preview
-
-<div align="center">
-
-### Desktop
-*Interface completa com todos os elementos visuais*
-
-### Mobile
-*Layout responsivo otimizado para dispositivos móveis*
-
-</div>
 
 ## 🎨 Paleta de Cores
 
@@ -99,7 +97,7 @@ O portfólio está disponível em: **[lucasmartinshilario.github.io](https://luc
 
 ## 📝 Licença
 
-Este projeto está sob licença livre para uso pessoal.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## 📧 Contato
 
@@ -108,6 +106,7 @@ Este projeto está sob licença livre para uso pessoal.
 [![Email](https://img.shields.io/badge/Email-lucasmhilario94@gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmhilario94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucasmartinshilario-9d00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmartinshilario/)
 [![GitHub](https://img.shields.io/badge/GitHub-lucasmartinshilario-00f5ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasmartinshilario)
+[![GitLab](https://img.shields.io/badge/GitLab-lucasmartinshilario-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasmartinshilario)
 
 </div>
 
